@@ -1,0 +1,4 @@
+GROUP,n,age_mean,age_sd,pct_female,edu_mean,moca_mean,moca_sd,moca_median,entTH_mean,entTH_sd,entTH_median
+Normal cognition,841,67.25,7.94,64.33,16.37,26.18,2.36,26.2,3.09,0.3,3.1
+MCI,250,70.84,7.46,44.0,16.1,22.4,3.38,23.0,2.91,0.41,2.97
+Dementia,128,68.99,8.98,60.94,15.81,16.48,6.1,17.0,2.72,0.35,2.7

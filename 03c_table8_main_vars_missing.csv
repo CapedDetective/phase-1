@@ -1,0 +1,10 @@
+وجه,متغیر,NaN خام,نامعتبر/نامعلوم,توضیح,درصد
+UDS,MOCATOTS,0,9,کد ۸۸ (۴ نفر) و مقدار >۳۰ (۵ نفر),0.73
+UDS,EDUC,0,2,کد ۹۹,0.16
+UDS,NACCAGE,0,0,بازه منطقی ۱۸ تا ۱۱۰,0.0
+UDS,SEX,0,0,کدهای ۱ و ۲,0.0
+UDS,NACCUDSD,0,0,کدهای ۱ تا ۴,0.0
+MRI,LH_ENTORHINAL_AVGTH,0,0,ضخامت > ۰,0.0
+MRI,RH_ENTORHINAL_AVGTH,0,0,ضخامت > ۰,0.0
+MRI,LH_ENTORHINAL_GVOL,0,1,حجم صفر (غیرممکن),0.08
+MRI,RH_ENTORHINAL_GVOL,0,0,حجم صفر (غیرممکن),0.0

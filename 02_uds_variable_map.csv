@@ -1,0 +1,181 @@
+دسته کلان ,زیرگروه (فرم NACC),متغیر
+شناسه,شناسه یکتای شرکت‌کننده (NACC Derived ID),NACCID
+جمعیت‌شناختی,فرم A1: اطلاعات جمعیت‌شناختی شرکت‌کننده (Subject Demographics),SEX
+جمعیت‌شناختی,فرم A1: اطلاعات جمعیت‌شناختی شرکت‌کننده (Subject Demographics),HISPANIC
+جمعیت‌شناختی,فرم A1: اطلاعات جمعیت‌شناختی شرکت‌کننده (Subject Demographics),HISPOR
+جمعیت‌شناختی,فرم A1: اطلاعات جمعیت‌شناختی شرکت‌کننده (Subject Demographics),RACE
+جمعیت‌شناختی,فرم A1: اطلاعات جمعیت‌شناختی شرکت‌کننده (Subject Demographics),PRIMLANG
+جمعیت‌شناختی,فرم A1: اطلاعات جمعیت‌شناختی شرکت‌کننده (Subject Demographics),EDUC
+جمعیت‌شناختی,فرم A1: اطلاعات جمعیت‌شناختی شرکت‌کننده (Subject Demographics),MARISTAT
+جمعیت‌شناختی,فرم A1: اطلاعات جمعیت‌شناختی شرکت‌کننده (Subject Demographics),NACCLIVS
+جمعیت‌شناختی,فرم A1: اطلاعات جمعیت‌شناختی شرکت‌کننده (Subject Demographics),INDEPEND
+جمعیت‌شناختی,فرم A1: اطلاعات جمعیت‌شناختی شرکت‌کننده (Subject Demographics),RESIDENC
+جمعیت‌شناختی,فرم A1: اطلاعات جمعیت‌شناختی شرکت‌کننده (Subject Demographics),NACCNIHR
+جمعیت‌شناختی,فرم A1: اطلاعات جمعیت‌شناختی شرکت‌کننده (Subject Demographics),NACCAGE
+پزشکی,فرم A3 + ژنتیک: سابقه خانوادگی و ژنوتیپ APOE (Family History & RDD-Genetics),NACCFAM
+پزشکی,فرم A3 + ژنتیک: سابقه خانوادگی و ژنوتیپ APOE (Family History & RDD-Genetics),NACCMOM
+پزشکی,فرم A3 + ژنتیک: سابقه خانوادگی و ژنوتیپ APOE (Family History & RDD-Genetics),NACCDAD
+پزشکی,فرم A3 + ژنتیک: سابقه خانوادگی و ژنوتیپ APOE (Family History & RDD-Genetics),NACCAM
+پزشکی,فرم A3 + ژنتیک: سابقه خانوادگی و ژنوتیپ APOE (Family History & RDD-Genetics),NACCAMS
+پزشکی,فرم A3 + ژنتیک: سابقه خانوادگی و ژنوتیپ APOE (Family History & RDD-Genetics),NACCFM
+پزشکی,فرم A3 + ژنتیک: سابقه خانوادگی و ژنوتیپ APOE (Family History & RDD-Genetics),NACCFMS
+پزشکی,فرم A3 + ژنتیک: سابقه خانوادگی و ژنوتیپ APOE (Family History & RDD-Genetics),NACCOM
+پزشکی,فرم A3 + ژنتیک: سابقه خانوادگی و ژنوتیپ APOE (Family History & RDD-Genetics),NACCOMS
+پزشکی,فرم A3 + ژنتیک: سابقه خانوادگی و ژنوتیپ APOE (Family History & RDD-Genetics),NACCFADM
+پزشکی,فرم A3 + ژنتیک: سابقه خانوادگی و ژنوتیپ APOE (Family History & RDD-Genetics),NACCFFTD
+پزشکی,فرم A3 + ژنتیک: سابقه خانوادگی و ژنوتیپ APOE (Family History & RDD-Genetics),NACCAPOE
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),ANYMEDS
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCAAAS
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCAANX
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCAC
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCACEI
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCADEP
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCAHTN
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCAMD
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCANGI
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCAPSY
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCBETA
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCCCBS
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCDBMD
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCDIUR
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCEMD
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCEPMD
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCHTNC
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCLIPL
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCNSD
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCPDMD
+پزشکی,فرم A4: داروهای مصرفی شرکت‌کننده (Subject Medications - NACC Derived),NACCVASD
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),TOBAC30
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),TOBAC100
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),SMOKYRS
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),PACKSPER
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),QUITSMOK
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),CVHATT
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),CVAFIB
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),CVANGIO
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),CVBYPASS
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),CVPACDEF
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),CVCHF
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),CVOTHR
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),CBSTROKE
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),CBTIA
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),SEIZURES
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),NACCTBI
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),TBI
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),TBIBRIEF
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),TBIEXTEN
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),TBIWOLOS
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),DIABETES
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),DIABTYPE
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),HYPERTEN
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),HYPERCHO
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),B12DEF
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),THYROID
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),ARTHRIT
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),ARTHTYPE
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),ARTHUPEX
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),ARTHLOEX
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),ARTHSPIN
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),ARTHUNK
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),INCONTU
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),INCONTF
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),APNEA
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),RBD
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),INSOMN
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),OTHSLEEP
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),ALCOHOL
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),ABUSOTHR
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),PTSD
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),BIPOLAR
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),SCHIZ
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),DEP2YRS
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),DEPOTHR
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),ANXIETY
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),OCD
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),NPSYDEV
+پزشکی,فرم A5: سابقه سلامت و سبک زندگی (Subject Health History),PSYCDIS
+پزشکی,فرم B1: اندازه‌گیری‌های فیزیکی و حسی (Evaluation Form - Physical),HEIGHT
+پزشکی,فرم B1: اندازه‌گیری‌های فیزیکی و حسی (Evaluation Form - Physical),WEIGHT
+پزشکی,فرم B1: اندازه‌گیری‌های فیزیکی و حسی (Evaluation Form - Physical),BPSYS
+پزشکی,فرم B1: اندازه‌گیری‌های فیزیکی و حسی (Evaluation Form - Physical),BPDIAS
+پزشکی,فرم B1: اندازه‌گیری‌های فیزیکی و حسی (Evaluation Form - Physical),HRATE
+پزشکی,فرم B1: اندازه‌گیری‌های فیزیکی و حسی (Evaluation Form - Physical),VISION
+پزشکی,فرم B1: اندازه‌گیری‌های فیزیکی و حسی (Evaluation Form - Physical),VISCORR
+پزشکی,فرم B1: اندازه‌گیری‌های فیزیکی و حسی (Evaluation Form - Physical),VISWCORR
+پزشکی,فرم B1: اندازه‌گیری‌های فیزیکی و حسی (Evaluation Form - Physical),HEARING
+پزشکی,فرم B1: اندازه‌گیری‌های فیزیکی و حسی (Evaluation Form - Physical),HEARAID
+پزشکی,فرم B1: اندازه‌گیری‌های فیزیکی و حسی (Evaluation Form - Physical),HEARWAID
+پزشکی,فرم B1: اندازه‌گیری‌های فیزیکی و حسی (Evaluation Form - Physical),NACCBMI
+پزشکی,فرم B2: معاینه عصبی بالینی (Neurological Examination Findings),NACCNREX
+پزشکی,فرم B2: معاینه عصبی بالینی (Neurological Examination Findings),NORMEXAM
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),NPIQINF
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),DEL
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),DELSEV
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),HALL
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),HALLSEV
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),AGIT
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),AGITSEV
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),DEPD
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),DEPDSEV
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),ANX
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),ANXSEV
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),ELAT
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),ELATSEV
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),APA
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),APASEV
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),DISN
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),DISNSEV
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),IRR
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),IRRSEV
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),MOT
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),MOTSEV
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),NITE
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),NITESEV
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),APP
+پزشکی,فرم B5: پرسش‌نامه علائم عصب‌روان‌شناختی (Neuropsychiatric Inventory - NPI-Q),APPSEV
+پزشکی,فرم B6: مقیاس افسردگی سالمندان (Geriatric Depression Scale - GDS),NOGDS
+پزشکی,فرم B6: مقیاس افسردگی سالمندان (Geriatric Depression Scale - GDS),SATIS
+پزشکی,فرم B6: مقیاس افسردگی سالمندان (Geriatric Depression Scale - GDS),DROPACT
+پزشکی,فرم B6: مقیاس افسردگی سالمندان (Geriatric Depression Scale - GDS),EMPTY
+پزشکی,فرم B6: مقیاس افسردگی سالمندان (Geriatric Depression Scale - GDS),BORED
+پزشکی,فرم B6: مقیاس افسردگی سالمندان (Geriatric Depression Scale - GDS),SPIRITS
+پزشکی,فرم B6: مقیاس افسردگی سالمندان (Geriatric Depression Scale - GDS),AFRAID
+پزشکی,فرم B6: مقیاس افسردگی سالمندان (Geriatric Depression Scale - GDS),HAPPY
+پزشکی,فرم B6: مقیاس افسردگی سالمندان (Geriatric Depression Scale - GDS),HELPLESS
+پزشکی,فرم B6: مقیاس افسردگی سالمندان (Geriatric Depression Scale - GDS),STAYHOME
+پزشکی,فرم B6: مقیاس افسردگی سالمندان (Geriatric Depression Scale - GDS),MEMPROB
+پزشکی,فرم B6: مقیاس افسردگی سالمندان (Geriatric Depression Scale - GDS),WONDRFUL
+پزشکی,فرم B6: مقیاس افسردگی سالمندان (Geriatric Depression Scale - GDS),WRTHLESS
+پزشکی,فرم B6: مقیاس افسردگی سالمندان (Geriatric Depression Scale - GDS),ENERGY
+پزشکی,فرم B6: مقیاس افسردگی سالمندان (Geriatric Depression Scale - GDS),HOPELESS
+پزشکی,فرم B6: مقیاس افسردگی سالمندان (Geriatric Depression Scale - GDS),BETTER
+پزشکی,فرم B6: مقیاس افسردگی سالمندان (Geriatric Depression Scale - GDS),NACCGDS
+عملکردی,فرم B7: پرسش‌نامه فعالیت‌های عملکردی روزمره (Functional Activities Questionnaire - FAQ),BILLS
+عملکردی,فرم B7: پرسش‌نامه فعالیت‌های عملکردی روزمره (Functional Activities Questionnaire - FAQ),TAXES
+عملکردی,فرم B7: پرسش‌نامه فعالیت‌های عملکردی روزمره (Functional Activities Questionnaire - FAQ),SHOPPING
+عملکردی,فرم B7: پرسش‌نامه فعالیت‌های عملکردی روزمره (Functional Activities Questionnaire - FAQ),GAMES
+عملکردی,فرم B7: پرسش‌نامه فعالیت‌های عملکردی روزمره (Functional Activities Questionnaire - FAQ),STOVE
+عملکردی,فرم B7: پرسش‌نامه فعالیت‌های عملکردی روزمره (Functional Activities Questionnaire - FAQ),MEALPREP
+عملکردی,فرم B7: پرسش‌نامه فعالیت‌های عملکردی روزمره (Functional Activities Questionnaire - FAQ),EVENTS
+عملکردی,فرم B7: پرسش‌نامه فعالیت‌های عملکردی روزمره (Functional Activities Questionnaire - FAQ),PAYATTN
+عملکردی,فرم B7: پرسش‌نامه فعالیت‌های عملکردی روزمره (Functional Activities Questionnaire - FAQ),REMDATES
+عملکردی,فرم B7: پرسش‌نامه فعالیت‌های عملکردی روزمره (Functional Activities Questionnaire - FAQ),TRAVEL
+شناختی,فرم B9 + B4: قضاوت بالینی علائم و مقیاس شدت زوال عقل (Clinician Judgment & CDR®),DECSUB
+شناختی,فرم B9 + B4: قضاوت بالینی علائم و مقیاس شدت زوال عقل (Clinician Judgment & CDR®),MEMORY
+شناختی,فرم B9 + B4: قضاوت بالینی علائم و مقیاس شدت زوال عقل (Clinician Judgment & CDR®),ORIENT
+شناختی,فرم B9 + B4: قضاوت بالینی علائم و مقیاس شدت زوال عقل (Clinician Judgment & CDR®),JUDGMENT
+شناختی,فرم B9 + B4: قضاوت بالینی علائم و مقیاس شدت زوال عقل (Clinician Judgment & CDR®),COMMUN
+شناختی,فرم B9 + B4: قضاوت بالینی علائم و مقیاس شدت زوال عقل (Clinician Judgment & CDR®),HOMEHOBB
+شناختی,فرم B9 + B4: قضاوت بالینی علائم و مقیاس شدت زوال عقل (Clinician Judgment & CDR®),PERSCARE
+شناختی,فرم B9 + B4: قضاوت بالینی علائم و مقیاس شدت زوال عقل (Clinician Judgment & CDR®),CDRSUM
+شناختی,فرم B9 + B4: قضاوت بالینی علائم و مقیاس شدت زوال عقل (Clinician Judgment & CDR®),CDRGLOB
+شناختی,فرم C2: بسته آزمون‌های عصب‌روان‌شناختی عینی (Neuropsychological Battery - MoCA/TMT/Fluency),ANIMALS
+شناختی,فرم C2: بسته آزمون‌های عصب‌روان‌شناختی عینی (Neuropsychological Battery - MoCA/TMT/Fluency),VEG
+شناختی,فرم C2: بسته آزمون‌های عصب‌روان‌شناختی عینی (Neuropsychological Battery - MoCA/TMT/Fluency),TRAILA
+شناختی,فرم C2: بسته آزمون‌های عصب‌روان‌شناختی عینی (Neuropsychological Battery - MoCA/TMT/Fluency),TRAILARR
+شناختی,فرم C2: بسته آزمون‌های عصب‌روان‌شناختی عینی (Neuropsychological Battery - MoCA/TMT/Fluency),TRAILALI
+شناختی,فرم C2: بسته آزمون‌های عصب‌روان‌شناختی عینی (Neuropsychological Battery - MoCA/TMT/Fluency),TRAILB
+شناختی,فرم C2: بسته آزمون‌های عصب‌روان‌شناختی عینی (Neuropsychological Battery - MoCA/TMT/Fluency),TRAILBRR
+شناختی,فرم C2: بسته آزمون‌های عصب‌روان‌شناختی عینی (Neuropsychological Battery - MoCA/TMT/Fluency),TRAILBLI
+شناختی,فرم C2: بسته آزمون‌های عصب‌روان‌شناختی عینی (Neuropsychological Battery - MoCA/TMT/Fluency),MOCATOTS
+تشخیصی,فرم D1: تشخیص بالینی وضعیت شناختی (Clinician Diagnosis - Cognitive Status),NACCUDSD
