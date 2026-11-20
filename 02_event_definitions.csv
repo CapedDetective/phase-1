@@ -1,0 +1,6 @@
+﻿event,meaning,data rule,n (event occurs),P(event)
+E1,MCI or dementia,"NACCUDSD in {3,4}",378,0.31009023789991796
+D,Dementia,NACCUDSD = 4,128,0.10500410172272355
+L,Thin entorhinal cortex (ENT_TH < 3.058 mm = sample median),ENT_TH < median,609,0.4995898277276456
+M,Low MoCA (< 26),MOCA < 26,650,0.5332239540607056
+F,Female,SEX = 2,729,0.5980311730926989

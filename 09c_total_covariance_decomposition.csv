@@ -1,0 +1,2 @@
+﻿"within groups E[Cov(X,Y|G)]","between groups Cov(E[X|G],E[Y|G])","total Cov(X,Y) (/N)",between / total
+0.10140401591439763,0.3830830824011028,0.4844870983155009,0.7906982120535989

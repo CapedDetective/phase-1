@@ -1,0 +1,4 @@
+﻿GROUP,n,mean,sd,skewness,excess_kurtosis
+Normal,841,3.09,0.303,-0.68,2.075
+MCI,250,2.912,0.412,-0.942,1.807
+Dementia,128,2.716,0.352,-0.032,-0.107

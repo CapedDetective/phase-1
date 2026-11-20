@@ -1,0 +1,3 @@
+﻿evidence,"sequential Bayes (assumes L, M independent given E1)",direct empirical P(E1 | evidence),n,difference
+L and M (both present),0.624476200462436,0.6090425531914894,376,0.015433647270946649
+not L and not M (both absent),0.04815843515894099,0.0625,336,-0.014341564841059008

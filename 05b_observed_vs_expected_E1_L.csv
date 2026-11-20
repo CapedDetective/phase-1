@@ -1,0 +1,5 @@
+﻿,observed,expected under independence,observed / expected
+E1 & L,255,188.8,1.351
+E1 & not L,123,189.2,0.65
+not E1 & L,354,420.2,0.842
+not E1 & not L,487,420.8,1.157
